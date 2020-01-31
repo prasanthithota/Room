@@ -50,3 +50,9 @@ public class Program {
 		
 	}
 }
+
+
+                List<WebElement> radio = driver.findElements(By.xpath("//h1[text()='Book a Flight']/parent::div/following-sibling::div[1]/div/label")); 
+                System.out.println(radio.size()); 
+                radio.get(2).click();
+
