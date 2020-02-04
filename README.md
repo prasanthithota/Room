@@ -4,6 +4,8 @@ https://testing.in.capgemini.com/skillsfactory/login/index.php
 
 Selenium WebDriver Training with Java and Many Live Projects | Udemy
 
+https://www.edureka.co/blog/handle-multiple-windows-in-selenium/
+
 
 package sample;
 
